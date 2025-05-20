@@ -6,4 +6,4 @@ Este repositório contém uma aplicação simples em Python que permite verifica
 
 - Python 3.x
 - Tkinter (para a interface gráfica)
-- 
+  
